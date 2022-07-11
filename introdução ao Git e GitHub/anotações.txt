@@ -1,1 +1,48 @@
-Git e GitHub
+# Git:
+-Sistema de versionamento de código distribuído
+-Cria e monitora diferentes versões de códigos
+
+# GitHub:
+-Empresa da Microsoft.
+-Guarda os códigos.
+
+Git Bash: É um terminal extendido para otimizar o uso do Git
+
+.cd: serve para entrar em uma pasta.
+
+.dir:puxar lista de diretórios contidos em uma pasta.
+
+.cd .. : retroceder um nível.
+
+.Ctrl + L : limpar terminal.
+
+.TAB ( -><- ) : Atalho no teclado, com função de autocompletar.
+
+.mkdir : cria pastas.
+
+.echo > "nome' + extensão: cria um arquivo.
+
+.del + "nome da pasta": deleta o conteúde de dentro da pasta.
+
+.rmdir "nome da pasta"/s/q -> ENTER + dir : deleatr uma pasta.
+
+.pwd: mostra o caminho para se achar algo( pasta...)
+
+mv: serve para mover um arquivo para outro lugar(pasta...)
+----------------------------------------------------------------
+
+SHA1: É um algorítmo de computação, que pega o arquivo e o incripta, gerando um conjunto de caracteres identificados por 40 dígitos.
+
+Blobs: Armazena arquivos.
+Tree: Armazena Blobs e metadados.
+Commits: Blobs + Tree + dados como autor, data, hora...
+
+Git é seguro pois com o Commit é possível ver o código e se este sofreu ou não modificações de outras pessoas.
+
+Chave SSH é uma forma de estabelecer uma conexão segura e incriptada entre duas maquinas, no qual se tem duas chaves, uma particular que é a do criador, e outra pública que colocamos no GitHub, que vai conhecer nossa maquina
+
+Git Init: inicia a conecção do Git ao conteúdo da máquina 
+Git add: mover arquivos e suas modificações
+Git commit: cria um commit( como se tirasse uma foto da versão final do código)
+
+
