@@ -32,8 +32,12 @@
 
 .Chave SSH é uma forma de estabelecer uma conexão segura e incriptada entre duas maquinas, no qual se tem duas chaves, uma particular que é a do criador, e outra pública que colocamos no GitHub, que vai conhecer nossa maquina
 
+.git config --global user.email "email" : conectar um email na maquina e no GitHub
+.git config --global --unset user.email : para deletar o email e poder trocar
+.git config --global user.name "name" : para atualizar o nome do autor
+
+.Em uma lista...configuração...aperte a letra Q para sair
+
 .Git Init: inicia a conecção do Git ao conteúdo da máquina 
 .Git add: mover arquivos e suas modificações
 .Git commit: cria um commit( como se tirasse uma foto da versão final do código)
-
-
