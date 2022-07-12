@@ -1,0 +1,39 @@
+Entrada: É uma infromação inicial (valores ou conjuntos) necessários para conseguir resolver um problema
+Saída: É o resultado
+
+TODO: É um espaço para fazer algo
+      -se meu problema é uma SOMA, eu coloco as variáveis A + B
+
+Pensamento Computacional
+-É um sistema eficiente, no qual serve para a formulação e resoluções de problemas
+de forma que sejam capazes de serem resolvidos tanto por uma maquina quanto por 
+um ser humano
+
+-É preciso Raciocínio lógico: que é o pensamento de encontrar soluções de um problema
+
+-Baseado em quatro pilares:
+.Decomposição: dividir o problema complexo em subproblemas
+.Reconhecimento de padrões: identificar similaridades dentro de um mesmo contexto ou não
+.Abstração: Extrapolar o conceito do problema e criar uma fórmula, ou seja, torna-lo generalista
+.Desing de algarítmos: definir passo a passo a solição do problema
+
+#Algoritmos
+-O computador recebe, manipula e armazena dados
+-Programas são constituídos por instruções que possuem passo a passo ( Step by Step) que a maquina precisa realizar.
+-o algoritmo tem que ser entendido por um ser humano e por uma máquina
+
+# Desenvolvimento de um programa...
+-Análise: estudo e definições dos dados de entrada e saída
+-Algoritmo: descreve o problema por meio de ferramentas:narrativas, fluxogramas ou pseudocódigo
+-codificação: o algoritmo é codificado d eacordo com a linguagem de programação
+
+Variável; é um tipo de estrutura mutável, no qual pode ter vários valores, assim mudando seu conteúdo.
+
+-Estrutura condicional: expressa uma condição ou suposição para que algo possa acontecer
+-Operadores relacionais: é o que nos ajuda a definir as estruturas condicionais (ex: =, >, <...)
+-Estrutura de repetição:É uma estrutura que irá executar um determinado trecho de programa a partir de um parâmentro dentro de uma estrutura de repetição
+                        (ex: ...enquanto...faça... / ...repita...até... / ...para...de...até...faça.)
+
+-Vetores: É uma variável que possui uma sequência pré-fixada que irá receber "n" valores
+-Matriz: É uma coleção de variáveis
+-Funções: São blocos de instruções que realizam tarefas específicas
