@@ -24,10 +24,10 @@ um ser humano
 -Programas são constituídos por instruções que possuem passo a passo ( Step by Step) que a máquina precisa realizar.
 -o algoritmo tem que ser entendido por um ser humano e por uma máquina
 
-# Desenvolvimento de um programa...
+ Desenvolvimento de um programa...
 -Análise: estudo e definições dos dados de entrada e saída
 -Algoritmo: descreve o problema por meio de ferramentas:narrativas, fluxogramas ou pseudocódigo
--codificação: o algoritmo é codificado d eacordo com a linguagem de programação
+-codificação: o algoritmo é codificado de acordo com a linguagem de programação
 
 -Estrutura condicional: expressa uma condição ou suposição para que algo possa acontecer
 -Operadores relacionais: é o que nos ajuda a definir as estruturas condicionais (ex: =, >, <...)
