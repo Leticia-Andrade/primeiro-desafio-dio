@@ -17,7 +17,6 @@
 .mkdir : cria pastas.
 .echo > "nome' + extensão: cria um arquivo.
 .del + "nome da pasta": deleta o conteúde de dentro da pasta.
-.rmdir "nome da pasta"/s/q -> ENTER + dir : deleatr uma pasta.
 .pwd: mostra o caminho para se achar algo( pasta...)
 .mv: serve para mover um arquivo para outro lugar(pasta...)
 ----------------------------------------------------------------
